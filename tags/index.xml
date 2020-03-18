@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on LayarKu</title>
+    <link>https://layarku.netismedia.com/tags/</link>
+    <description>Recent content in Tags on LayarKu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <copyright>Hak cipta &amp;copy; 2020, Netismedia</copyright>
+    
+	<atom:link href="https://layarku.netismedia.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

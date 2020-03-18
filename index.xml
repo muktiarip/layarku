@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LayarKu</title>
+    <link>https://layarku.netismedia.com/</link>
+    <description>Recent content on LayarKu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <copyright>Hak cipta &amp;copy; 2020, Netismedia</copyright>
+    
+	<atom:link href="https://layarku.netismedia.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dokumentasi</title>
+      <link>https://layarku.netismedia.com/documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://layarku.netismedia.com/documentation/</guid>
+      <description>1. Konsep Dasar Untuk menggunakan layanan LayarKu Cloud, anda perlu memahami beberapa konsep dasar berikut:
+ Media player adalah perangkat yang berfungsi untuk menampilkan koten video atau gambar di layar elektronik (TV, monitor, videotron, dsb.) Grup media player adalah kelompok media player yang memiliki kesamaan berikut:
+ pengaturan zona waktu, orientasi layar (horizontal atau vertikal). konten dan playlist yang ditayangkan termasuk jadwal tayang.   Terdapat satu grup khusus dengan nama Default group di mana setiap media player yang baru didaftarkan secara otomatis akan menjadi anggota dari Default group.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://layarku.netismedia.com/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://layarku.netismedia.com/faq/</guid>
+      <description>Pertanyaan Umum File media apa yang bisa ditampilkan oleh LayarKu player?
+LayarKu player bisa menampilkan:
+ File video format MP4 dengan encoding H.264 dengan resolusi maksimum 1920x1080 pixel (Full HD). File gambar dalam format JPG dan PNG dengan ukuran maximum 1920x1080 pixel.  Apa saja yang diperlukan untuk menggunakan layanan LayarKu?
+Anda memerlukan LayarKu player dan sambungan internet untuk sinkronisasi data dan media konten antara LayarKu player dan LayarKu cloud server.</description>
+    </item>
+    
+  </channel>
+</rss>
